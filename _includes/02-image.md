@@ -1,2 +1,1 @@
 ![Image of Yaktocat]
-[GitHub]
